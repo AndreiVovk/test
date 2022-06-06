@@ -1,0 +1,183 @@
+
+044 Git
+https://git-scm.com/
+
+044 -Git
+https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git
+
+044 GitHub
+https://github.com/
+
+044 -Git-
+https://githowto.com/ru
+
+045 Git-Kraken
+https://www.gitkraken.com/
+
+045 -gitignore-
+https://drive.google.com/open?id=1HpOCgh-LWHtkIo4RfEFAiniw1-D2oCXV
+
+046 Node.js
+https://nodejs.org/en/
+
+046 Gulp
+https://gulpjs.com/
+
+046 Gulp-sass
+https://www.npmjs.com/package/gulp-sass
+
+046 Browser-sync
+https://www.browsersync.io/
+
+046 Browser-sync-npm
+https://www.npmjs.com/package/browser-sync
+
+046 gulp-autoprefixer
+https://www.npmjs.com/package/gulp-autoprefixer
+
+046 gulp-clean-css
+https://www.npmjs.com/package/gulp-clean-css
+
+046 gulp-rename
+https://www.npmjs.com/package/gulp-rename
+
+046 Gulpfile-
+https://drive.google.com/open?id=1lBAXcbteahnUQJfaYEk78Km_I4BgbVIg
+
+047 -
+https://ru.bem.info/methodology/
+
+048 -
+https://drive.google.com/open?id=1_6PO5VT19P__N-9J2stbrXihVd2zMCG_
+
+048 -figma
+https://www.figma.com/file/zWtpNVgBT91sEg2li9JKBd/Pulse?node-id=0%3A1
+
+050 -input
+http://htmlbook.ru/html/input/type
+
+050 -
+https://nisnom.com/category/veb-razrabotki/pereklyuchateli/
+
+051 -JS
+https://learn.javascript.ru/
+
+051 -
+https://github.com/yankovalenko94/Webdev2019/tree/master/Pulse_step_2
+
+052 -92-JS
+https://www.udemy.com/course/javascript_full/?referralCode=935D7CDC956777D60D27
+
+053 Slick
+https://kenwheeler.github.io/slick/
+
+053 -Jquery
+http://jquery.page2page.ru/index.php5/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+
+055 Owl-Carousel
+https://owlcarousel2.github.io/OwlCarousel2/
+
+055 Tiny-Slider
+https://github.com/ganlanyuan/tiny-slider
+
+055 -Bootstrap
+https://getbootstrap.com/docs/4.3/components/carousel/
+
+055 -html
+http://htmlbook.ru/samlayout/internet-explorer/uslovnye-kommentarii
+
+055 -Jquery-
+https://www.youtube.com/watch?v=ENGZC0bwjEM
+
+056 -
+https://github.com/yankovalenko94/Webdev2019/tree/master/Pulse_step_2
+
+057 -
+https://denis-creative.com/jquery-tabs/
+
+057 Bootstrap-
+https://getbootstrap.com/docs/4.3/components/navs/#javascript-behavior
+
+057 -calc-
+https://vk.com/hinstone?w=wall158365542_456%2Fall
+
+058 -
+https://yandex.ru/map-constructor/
+
+058 VPN-
+https://chrome.google.com/webstore/detail/touch-vpn/bihmplhobchoageeokmgbdihknkjbknd
+
+059 -Bootstrap
+https://getbootstrap.com/docs/4.3/components/modal/
+
+059 magnific-popup
+https://dimsemenov.com/plugins/magnific-popup/documentation.html
+
+059 -Jquery
+http://jquery.page2page.ru/index.php5/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+
+059 -
+https://github.com/yankovalenko94/Webdev2019/tree/master/Pulse_step_5
+
+059 -HTML
+https://html5book.ru/specsimvoly-html/
+
+060 -
+https://jqueryvalidation.org/
+
+061 -
+https://plugins.jquery.com/maskedinput/
+
+062 Open-Server
+https://ospanel.io/
+
+062 MAMP
+https://www.mamp.info/en/
+
+063 Php-Mailer-
+https://github.com/PHPMailer/PHPMailer
+
+063 -
+https://drive.google.com/open?id=11TSNGalwbGO6HnaWqmFOemLg7HKdE34y
+
+065 -
+http://history-of-blog.ru/verstka-sajtov/plavnaya-prokrutka-do-yakorya-na-jquery-luchshij-skript/
+
+066 -
+https://html5book.ru/css3-animation
+
+067 Animate.css
+https://daneden.github.io/animate.css/
+
+067 wow.js
+https://wowjs.uk/
+
+069 -
+https://validator.w3.org/
+
+069 -VSCode
+https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation
+
+070 -SSL
+https://hostenko.com/wpcafe/tutorials/wordpress-ssl-https/
+
+070 -
+https://hosting-ninja.ru/rating/linkhost/videouroki.html?video=7
+
+071 Google-Pagespeed
+https://developers.google.com/speed/pagespeed/insights/
+
+071 -
+https://imagecompressor.com/ru/
+
+071 gulp-htmlmin
+https://www.npmjs.com/package/gulp-htmlmin
+
+071 gulp-imagemin
+https://www.npmjs.com/package/gulp-imagemin
+
+071 gulp-scss-starter-
+https://github.com/andreyalexeich/gulp-scss-starter
+
+071 Virtualbox-
+https://www.virtualbox.org/

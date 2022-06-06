@@ -1,0 +1,15 @@
+git init  - инициация репозитария
+
+git config --global user.name 
+git config --global user.email andriivovk27@gmail.com
+
+Три состояния гит
+  - Файл создан и ничего не происходит
+  - Файл создан и гит следит за файлом
+  - Гит создал контрольную точку
+
+git status - узнаем состояния файла
+git add -A - Добавления на гит все файли
+git add file.file - добавления определенного файла
+
+git commit -a -m"first commit"
